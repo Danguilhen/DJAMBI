@@ -1,3 +1,3 @@
 # DJAMBI
 
-The DJAMBI game in C using SDL 2.0
+The DJAMBI game with Graphical user interface
